@@ -1,1 +1,3 @@
-jnd,sn .ljn.zdj
+
+
+nj,.jnd,sn .ljn.zdj
